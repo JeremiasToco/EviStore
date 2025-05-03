@@ -5,5 +5,6 @@ EviStore é uma plataforma de comércio electrônico que facilita a compra e ven
 
 <div style="display: flex;">
   <img style="margin: 40px;" width="400px" src="https://dapm.evistore-ao.com/public/images/1.png"/>
-  <img src="EviStore/2.png"/>
+  <img src="https://raw.githubusercontent.com/JeremiasToco/EviStore/main/EviStore/2.png"/>
 </div>
+
